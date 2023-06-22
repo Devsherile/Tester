@@ -12,12 +12,12 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("GBWhatsAPP"),
+        title: Text("GB WhatsAPP"),
         centerTitle: true,
         backgroundColor: Colors.red[600],
       ),
       body: Container(
-        color: Colors.grey[400],
+        color: Colors.grey[500],
       ),
       //   child: IconButton(
       //     onPressed: () {},
